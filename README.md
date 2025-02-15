@@ -60,7 +60,7 @@ La hoja debe tener la siguiente estructura:
 | 2025-02-15 | Desarrollo Web | Estudiantes |
 
 ## Notas
-- Los artículos se generan automáticamente usando GPT-3.5-turbo
+- Los artículos se generan automáticamente usando GPT-4o-mini
 - Cada artículo se guarda como un documento de Google Docs
 - El script proporcionará el enlace de edición para cada documento creado
 - Los documentos se nombran automáticamente basándose en la fecha y el tema
