@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 
 2. Configurar las credenciales de Google:
-   - Crear un proyecto en Google Cloud Console
+   - Crear un proyecto en Google Cloud Console [https://console.cloud.google.com/]
    - Habilitar las APIs de Google Sheets y Google Drive
    - Descargar el archivo de credenciales como `credentials.json` y colocarlo en el directorio del proyecto
    - Obtener una API key de OpenAI
